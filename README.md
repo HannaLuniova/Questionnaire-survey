@@ -1,5 +1,5 @@
 # Questionnaire survey
- ![Spiget Download Size](https://img.shields.io/github/languages/code-size/HannaLuniova/Questionnaire-survey) ![GitHub language count](https://img.shields.io/github/languages/count/HannaLuniova/Questionnaire-survey) ![GitHub top language](https://img.shields.io/github/languages/top/HannaLuniova/Questionnaire-survey) ![GitHub last commit](https://img.shields.io/github/last-commit/HannaLuniova/Questionnaire-survey)
+ ![GitHub repo size](https://img.shields.io/github/repo-size/HannaLuniova/Questionnaire-survey)  ![Spiget Download Size](https://img.shields.io/github/languages/code-size/HannaLuniova/Questionnaire-survey) ![GitHub language count](https://img.shields.io/github/languages/count/HannaLuniova/Questionnaire-survey) ![GitHub top language](https://img.shields.io/github/languages/top/HannaLuniova/Questionnaire-survey) ![GitHub last commit](https://img.shields.io/github/last-commit/HannaLuniova/Questionnaire-survey) ![GitHub  pull requests](https://img.shields.io/github/issues-pr/HannaLuniova/Questionnaire-survey)
  
   ![GitHub forks](https://img.shields.io/github/forks/HannaLuniova/Questionnaire-survey?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/HannaLuniova/Questionnaire-survey?style=social) 
 
