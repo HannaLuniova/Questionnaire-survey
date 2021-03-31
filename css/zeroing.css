@@ -1,0 +1,50 @@
+/* очистить все отступы и границы*/ 
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+/* меняет подсчёт ширины блока*/ 
+*,
+*:before,
+*:after {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+/* убираем линии обводки*/ 
+:focus,:active { outline: none;}
+a:focus,a:active {outline: none;}
+/* делаем теги блочные*/ 
+nav,
+footer,
+header,
+aside {
+    display: block;
+}
+/* уравнивает поведение стилей для разных браузеров*/ 
+html,
+body {
+     box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+    font-size: 100%;
+    line-height: 1;
+    font-size: 14px;/* блокирует самовольное изменение шрифта*/ 
+    text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+/* наследуют семейство шрифта*/ 
+input,button,textarea{
+    font-family: inherit;
+}
+input::-ms-clear{display: none;}/*убирает крестик*/ 
+button{cursor: pointer;}
+button::-moz-focus-inner{padding: 0;border: 0;}
+a,a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
