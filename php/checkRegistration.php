@@ -5,6 +5,7 @@ $email = preg_match("/[\w\d\+_]+@[\w\d]{4,}\.[\w]{2,}/iu", $_POST["email"]);
 $password = preg_match("/[\w\d]+/iu", $_POST["password"]);
 $read = preg_replace("/[ \n]{1,}/iu", "", file_get_contents("../txt/registration.txt"));
 
+// Строка состоящая из символов, без пробелов
 $line1 = strripos($read, preg_replace("/[ ]{1,}/iu", "", $_POST["email"]));
 $line2 = strripos($read, preg_replace("/[ ]{1,}/iu", "", $_POST["password"]));
 
