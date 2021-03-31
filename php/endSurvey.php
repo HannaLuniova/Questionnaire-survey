@@ -81,7 +81,7 @@
                 <div class="registr__content">
                     <h3 class="registr__title reg">Поблагодарим за участие!<br><br>
                         Ваши личные данные останутся конфиденциальными</h3><br>
-                    <a class="application-btn" href="../index.php" autofocus>Вернуться на главную <i class="fas fa-sync"></i></a>
+                    <a class="application-btn" href="../index.html" autofocus>Вернуться на главную <i class="fas fa-sync"></i></a>
                 </div>
             </div>
         </div>

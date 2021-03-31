@@ -38,9 +38,9 @@ if ($line1 === false && $line2 === false) {
     } else {
         echo
         ' <h3 class="registr__title reg">Введите корректные данные</h3>
-          <a class="application-btn" href="../index.php" autofocus>Пройти регистрацию заново  <i class="fas fa-sync"></i></a>';
+          <a class="application-btn" href="../index.html" autofocus>Пройти регистрацию заново  <i class="fas fa-sync"></i></a>';
     }
 } else {
     echo '<h3 class="registr__title reg">Вы уже регистрировались</h3>
-         <a class="application-btn" href="../index.php" autofocus>Пройти регистрацию заново  <i class="fas fa-sync"></i></a>';
+         <a class="application-btn" href="../index.html" autofocus>Пройти регистрацию заново  <i class="fas fa-sync"></i></a>';
 }
