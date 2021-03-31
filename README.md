@@ -1,11 +1,13 @@
 # Questionnaire survey
- ![Spiget Download Size](https://img.shields.io/spiget/download-size/2?style=social)
+ ![Spiget Download Size](https://img.shields.io/github/languages/code-size/HannaLuniova/Questionnaire-survey) ![GitHub language count](https://img.shields.io/github/languages/count/HannaLuniova/Questionnaire-survey) ![GitHub top language](https://img.shields.io/github/languages/top/HannaLuniova/Questionnaire-survey) ![GitHub last commit](https://img.shields.io/github/last-commit/HannaLuniova/Questionnaire-survey)
+ 
+  ![GitHub forks](https://img.shields.io/github/forks/HannaLuniova/Questionnaire-survey?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/HannaLuniova/Questionnaire-survey?style=social) 
 
 ---
 
 ![screen](images/scrin.png)
 
-##Что такое "Анкетный опрос"?
+## Что такое "Анкетный опрос"?
 
 **Анкетный опрос** - это проект, который позволяет создавать и анализировать опросы в Интернете.<br> Собранная информация  автоматически записывается в электронную таблицу, которую можно посмотреть под правами администратора.
 
