@@ -8,7 +8,7 @@
 
 ---
 
-![screen](images/scrin.png)
+![screen](images/scrin1.png)
 
 ## Что такое "Анкетный опрос"?
 
@@ -36,8 +36,8 @@
 
 ---
 
-![screen](images/scrin1.png)
- ## <center>Посмотреть [демо-версию](http://luniova.hostronavt.ru/?i=1) </center>
+![screen](images/scrin2.png)
+ # <p align="center">Посмотреть [демо-версию](http://luniova.hostronavt.ru/?i=1) </p>
 
 ---
 
