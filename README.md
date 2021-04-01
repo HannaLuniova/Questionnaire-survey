@@ -37,7 +37,7 @@
 ---
 
 ![screen](images/scrin2.png)
- # <center> Посмотреть [демо-версию](http://luniova.hostronavt.ru/?i=1) </center>
+ # <p align="center"> Посмотреть [демо-версию](http://luniova.hostronavt.ru/?i=1) </p>
 
 ---
 
@@ -50,7 +50,7 @@
 
 [К началу страницы](#up)
 
-[1]: https://getbootstrap.com 
-[2]: https://cdnjs.com/libraries/font-awesome 
-[3]: https://fontawesome.com/ 
-[4]: https://fonts.google.com 
+[1]: https://getbootstrap.com (Bootstrap)
+[2]: https://cdnjs.com/libraries/font-awesome (CDNJS)
+[3]: https://fontawesome.com/ (font-awesome)
+[4]: https://fonts.google.com (Google Fonts)
