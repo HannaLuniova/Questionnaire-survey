@@ -37,7 +37,7 @@
 ---
 
 ![screen](images/scrin2.png)
- # <p align="center"> Посмотреть [демо-версию](http://luniova.hostronavt.ru/?i=1) </p>
+ # <p align="center"> Посмотреть 👉 [демо-версию](http://luniova.hostronavt.ru/?i=1) </p>
 
 ---
 
