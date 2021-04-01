@@ -12,4 +12,4 @@ $data[] = ["msg1" => $answer1, "msg2" => $answer2, "msg3" => $answer3, "msg4" =>
 
 file_put_contents("../json/opros.json", json_encode($data));
 
-header("location:endSurvey.php");
+header("location:../html/endSurvey.html");
