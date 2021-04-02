@@ -2,9 +2,9 @@
 
 # Questionnaire survey
 
- ![GitHub repo size](https://img.shields.io/github/repo-size/HannaLuniova/Questionnaire-survey)  ![Spiget Download Size](https://img.shields.io/github/languages/code-size/HannaLuniova/Questionnaire-survey) ![GitHub language count](https://img.shields.io/github/languages/count/HannaLuniova/Questionnaire-survey) ![GitHub top language](https://img.shields.io/github/languages/top/HannaLuniova/Questionnaire-survey) ![GitHub last commit](https://img.shields.io/github/last-commit/HannaLuniova/Questionnaire-survey) ![GitHub  pull requests](https://img.shields.io/github/issues-pr/HannaLuniova/Questionnaire-survey)
+ ![GitHub repo size][repo size]  ![Spiget Download Size][Download Size] ![GitHub language count][language count] ![GitHub top language][top language] ![GitHub last commit][last commit] ![GitHub  pull requests][pull requests]
  
-  ![GitHub forks](https://img.shields.io/github/forks/HannaLuniova/Questionnaire-survey?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/HannaLuniova/Questionnaire-survey?style=social) 
+  ![GitHub forks][forks] ![GitHub Repo stars][Repo stars]
 
 ---
 
@@ -54,3 +54,19 @@
 [2]: https://cdnjs.com/libraries/font-awesome (CDNJS)
 [3]: https://fontawesome.com/ (font-awesome)
 [4]: https://fonts.google.com (Google Fonts)
+
+[repo size]: https://img.shields.io/github/repo-size/HannaLuniova/Questionnaire-survey
+
+[Download Size]: https://img.shields.io/github/languages/code-size/HannaLuniova/Questionnaire-survey
+
+[language count]: https://img.shields.io/github/languages/count/HannaLuniova/Questionnaire-survey
+
+[top language]: https://img.shields.io/github/languages/top/HannaLuniova/Questionnaire-survey
+
+[last commit]: https://img.shields.io/github/last-commit/HannaLuniova/Questionnaire-survey
+
+[pull requests]: https://img.shields.io/github/issues-pr/HannaLuniova/Questionnaire-survey
+
+[forks]: https://img.shields.io/github/forks/HannaLuniova/Questionnaire-survey?style=social
+
+[Repo stars]: https://img.shields.io/github/stars/HannaLuniova/Questionnaire-survey?style=social
