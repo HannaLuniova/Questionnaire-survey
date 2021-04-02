@@ -14,8 +14,8 @@ if ($line1 === false && $line2 === false) {
 
         echo '<h3 class="registr__title com ">Вы успешно прошли регистрацию</h3>';
 
-        //Запись в файл txt введённый  email, для исключения повторной регистрации
-        file_put_contents("../txt/registration.txt", $_POST["email"] . "\n", FILE_APPEND);
+        //Запись в файл txt введённого  email, для исключения повторной регистрации
+        file_put_contents("../txt/registration.txt", $_POST["email"]  . "\n", FILE_APPEND);
 
         // Форма опроса
         echo
